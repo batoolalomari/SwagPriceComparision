@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T18:26:42 EET" name="Default suite" finished-at="2024-06-10T18:26:48 EET" duration-ms="5811">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T18:26:42 EET" name="Default test" finished-at="2024-06-10T18:26:48 EET" duration-ms="5811">
+      <class name="TestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases@75cd8043]" started-at="2024-06-10T18:26:42 EET" name="Setup" finished-at="2024-06-10T18:26:46 EET" duration-ms="3672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login()[pri:1, instance:TestCases@75cd8043]" started-at="2024-06-10T18:26:46 EET" name="Login" finished-at="2024-06-10T18:26:47 EET" duration-ms="1548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addItemsWithPriceLessThan15()[pri:2, instance:TestCases@75cd8043]" started-at="2024-06-10T18:26:47 EET" name="addItemsWithPriceLessThan15" finished-at="2024-06-10T18:26:48 EET" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemsWithPriceLessThan15 -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
